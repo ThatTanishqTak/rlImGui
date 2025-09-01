@@ -34,7 +34,7 @@
 #include "raylib.h"
 #include "rlgl.h"
 
-#include "imgui.h"
+#include "../imgui/imgui.h"
 
 #include <math.h>
 #include <map>
